@@ -15,8 +15,8 @@ Shell: zsh 5.8
 DE: Aqua
 WM: Quartz Compositor
 Terminal: iTerm2
-Pronouns: he/him
-Languages: JavaScript, TypeScript, HTML, CSS, PHP, C++, Shell Script
+Pronouns: He/him
+Languages: TypeScript, JavaScript, HTML, PHP, CSS
 Frameworks: NodeJS, SvelteKit, Vuejs
 Discord: Falcxxdev#9273
 ```
